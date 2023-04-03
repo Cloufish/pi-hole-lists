@@ -1,0 +1,7 @@
+# Messenger
+cdn.fbsbx.com
+messenger.com
+edge.mqtt.facebook.com
+graph.facebook.com
+
+# Other
